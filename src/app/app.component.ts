@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
 })
 export class AppComponent {
-  title = 'ng-tailwind-jit-template';
+  title = 'tailwind-ng-jit-template';
 }

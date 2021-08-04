@@ -16,10 +16,10 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'ng-tailwind-jit-template'`, () => {
+  it(`should have as title 'tailwind-ng-jit-template'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('ng-tailwind-jit-template');
+    expect(app.title).toEqual('tailwind-ng-jit-template');
   });
 
   it('should render title', () => {
